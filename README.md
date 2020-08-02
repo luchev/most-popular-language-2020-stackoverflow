@@ -29,3 +29,6 @@ The results file should be named `2020.csv` and the schema filed should be `2020
 Then you can simply run  `jupyter notebook --ip=0.0.0.0 --port=4040` to view the notebooks.
 
 If you get an error when running jupyter, try changing the port or removing the `--ip` option.
+
+## Results
+Check out the results in this [medium post](https://medium.com/@luchevz/whats-the-most-popular-programming-language-in-2020-6c18919f965b)
